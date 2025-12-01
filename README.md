@@ -1,2 +1,2 @@
-# MC404
-Disciplina de MC404
+# computer-organization-and-assembly-language
+Projects developed during the computer organization discipline 2s2023
